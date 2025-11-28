@@ -21,11 +21,9 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats:</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Parth4825&theme=dark&hide_border=false" alt="GitHub Stats" />
-      <br/><br/>
+      <br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Parth4825&theme=dark&hide_border=false" alt="GitHub Streak" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4825&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
     </td>
     <td width="50%" valign="top">
       <br/>
@@ -36,6 +34,5 @@
 
 ### ✍️ Random Dev Quote
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" width="100%" />
 * * *
