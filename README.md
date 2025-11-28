@@ -10,7 +10,7 @@
 🌐 Socials:
 -----------
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth_0014)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ](https://linkedin.com/in/www.linkedin.com/in/parth-srivastava-971247129)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthsrivastava20@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth_0014)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-srivastava-971247129)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthsrivastava20@gmail.com)
 
 💻 Tech Stack:
 ==============
@@ -21,11 +21,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats:</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Parth4825&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Parth4825&theme=dark&hide_border=false" alt="GitHub Stats" />
       <br/><br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Parth4825&theme=dark&hide_border=false" alt="GitHub Streak" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4825&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4825&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
     </td>
     <td width="50%" valign="top">
       <br/>
@@ -39,5 +39,3 @@
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 * * *
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=Parth4825&icon=0&color=4)](https://visitcount.itsvg.in)
