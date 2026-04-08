@@ -24,7 +24,7 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=Parth4825&theme=dark&hide_border=false" alt="GitHub Streak" />
       <br/><br/> -->
     </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <br/>
       <img src="https://i.gifer.com/6M8G.gif" alt="Just Coding" width="100%" />
     </td>
