@@ -18,11 +18,11 @@
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3>📊 GitHub Stats:</h3>
       <br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Parth4825&theme=dark&hide_border=false" alt="GitHub Streak" />
-      <br/><br/>
+      <br/><br/> -->
     </td>
     <td width="50%" valign="top">
       <br/>
